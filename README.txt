@@ -1,4 +1,4 @@
-Para pegar as bibliotecas faltantes e ter o projeto completamente configurado, no terminal, rode:
+aPara pegar as bibliotecas faltantes e ter o projeto completamente configurado, no terminal, rode:
 
 > ant compile
 
